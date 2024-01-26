@@ -1,6 +1,3 @@
-<p align="center">
-  <img align="center" src="https://camo.githubusercontent.com/c12c25d4226d994624efd661876d1ce2a0d00db13b6217f769f9a926957b9405/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c615670304179715235624773433543626d2f67697068792e676966" alt="rizenf" height="100" width="100" />
-  </p>
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate Frontend developer based in Bekasi, Indonesia</h3>
 
