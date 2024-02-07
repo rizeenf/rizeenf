@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently expanding my knowledge in **Next.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [rizkin.my.id](rizkin.my.id)
+- 👨‍💻 All of my projects are available at [rizkin.my.id](https://rizkin.my.id)
 
 - 📫 You can reach me at **rize.nf11@gmail.com**
 
