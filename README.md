@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate Frontend developer based in Bekasi, Indonesia</h3>
 
-- 🔭 I’m currently looking for an opportunity **at your company**
+- 🔭 I’m currently working **as a React Fullstack Developer**
 
 - 👯 Open for Freelance project **slicing or convert design to a website**
 
