@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rizki</h1>
 <h3 align="center">A passionate Frontend developer based in Bekasi, Indonesia</h3>
 
-- 🔭 I’m currently working **as a React Fullstack Developer**
+- 🔭 I’m currently working **as a React.js Fullstack Developer**
 
 - 👯 Open for Freelance project **slicing or convert design to a website**
 
 - 📄 Know about my experiences [See my Resume](https://drive.google.com/file/d/1c--YL19wz1EjEo0AjzqJXfCtCgs7StzI/view?usp=sharing)
 
-- 🌱 I’m currently expanding my knowledge in **Next.js, Typescript**
+- 🌱 I’m currently expanding my knowledge in **Next.js, Typescript, GraphQL**
 
 - 👨‍💻 All of my projects are available at [rizkin.my.id](https://rizkin.my.id)
 
