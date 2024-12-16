@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [rizkin.my.id](https://rizkin.my.id)
 
-- 📫 You can reach me at **rize.nf11@gmail.com**
+- 📫 You can reach me at **rizkinurpdlh@gmail.com**
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
