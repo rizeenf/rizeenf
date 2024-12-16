@@ -158,5 +158,7 @@
 
 
 <hr/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizeenf&show_icons=true&locale=en" alt="rizeenf" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizeenf&show_icons=true&locale=en&theme=dark" alt="rizeenf" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizeenf&show_icons=true&locale=en&theme=dark" alt="rizeenf" /></p>
+
 <hr/>
